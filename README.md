@@ -2,6 +2,8 @@
 
 A simple script to add/list/delete events from your Google Calendar from the terminal. Cause why not?
 
+<img width="876" height="47" alt="calme" src="https://github.com/user-attachments/assets/b3603f8c-c48d-4013-926d-da861f1d1eb5" />
+
 ## Setup 
 1. For instructions to setup Google Auth follow: https://developers.google.com/workspace/calendar/api/quickstart/python
    1. You will need to add whatever email you want to test with to the group of local testers.
