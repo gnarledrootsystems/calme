@@ -20,11 +20,14 @@ A simple script to add/list/delete events from your Google Calendar from the ter
    2. Run: `pip3 install -r requirements.txt`
    3. Exit the venv environment: `deactivate`
 
-4. Create a symlink for exec funsies
+5. Make `calme.py` executable
+   1. Run `sudo chmod +x calme.py` 
+
+6. Create a symlink for exec funsies
    1. Run: `ln -s path/to/calme/calme.py /usr/local/bin/calme.py`
    2. Or whichever pathing area you wish that is included in `$PATH`
    
-5. Create events anywhere!
+7. Create events anywhere!
    1. Once you have the symlink set up, you can call `calme.py` from anywhere
    2. Run: `calme.py -n "Hello World!"`
 
